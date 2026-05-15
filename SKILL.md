@@ -1,4 +1,4 @@
---
+---
 name: git-helper
 description: Automate Git workflows for vibe coding. Use this skill whenever the user needs to commit changes, create a PR, manage branches, handle merge conflicts, or generate changelogs. Handles commit message generation (free-form), GitHub PR creation with auto-generated summaries and change lists, branch operations (create/switch/delete), conflict resolution guidance, and changelog generation by date. Works with any project, no special conventions needed.
 compatibility: requires git CLI, GitHub CLI (gh) for PR operations
